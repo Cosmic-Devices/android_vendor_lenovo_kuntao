@@ -1,1 +1,1 @@
-# vendor-lenovo-kuntao
+# vendor_lenovo_kuntao
